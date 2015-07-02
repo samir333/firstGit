@@ -1,0 +1,1334 @@
+<rootNode>
+  <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+    <System>
+      <Provider Name="Microsoft-Windows-Diagnostics-Performance" Guid="{CFC18EC0-96B1-4EBA-961B-622CAEE05B0A}" />
+      <EventID>200</EventID>
+      <Version>1</Version>
+      <Level>3</Level>
+      <Task>4007</Task>
+      <Opcode>40</Opcode>
+      <Keywords>0x8000000000010000</Keywords>
+      <TimeCreated SystemTime="2014-12-06T13:56:25.618658500Z" />
+      <EventRecordID>192</EventRecordID>
+      <Correlation ActivityID="{03515C50-F800-0002-47E6-04135C11D001}" />
+      <Execution ProcessID="1508" ThreadID="3124" />
+      <Channel>Microsoft-Windows-Diagnostics-Performance/Operational</Channel>
+      <Computer>Samir-VAIO</Computer>
+      <Security UserID="S-1-5-19" />
+    </System>
+    <EventData>
+      <Data Name="ShutdownTsVersion">1</Data>
+      <Data Name="ShutdownStartTime">2014-12-06T08:06:12.382309600Z</Data>
+      <Data Name="ShutdownEndTime">2014-12-06T08:06:28.942251800Z</Data>
+      <Data Name="ShutdownTime">16559</Data>
+      <Data Name="ShutdownUserSessionTime">7547</Data>
+      <Data Name="ShutdownUserPolicyTime">0</Data>
+      <Data Name="ShutdownUserProfilesTime">425</Data>
+      <Data Name="ShutdownSystemSessionsTime">6518</Data>
+      <Data Name="ShutdownPreShutdownNotificationsTime">1964</Data>
+      <Data Name="ShutdownServicesTime">4404</Data>
+      <Data Name="ShutdownKernelTime">2494</Data>
+      <Data Name="ShutdownRootCauseStepImprovementBits">0</Data>
+      <Data Name="ShutdownRootCauseGradualImprovementBits">0</Data>
+      <Data Name="ShutdownRootCauseStepDegradationBits">0</Data>
+      <Data Name="ShutdownRootCauseGradualDegradationBits">0</Data>
+      <Data Name="ShutdownIsDegradation">false</Data>
+      <Data Name="ShutdownTimeChange">0</Data>
+    </EventData>
+  </Event>
+  <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+    <System>
+      <Provider Name="Microsoft-Windows-Diagnostics-Performance" Guid="{CFC18EC0-96B1-4EBA-961B-622CAEE05B0A}" />
+      <EventID>200</EventID>
+      <Version>1</Version>
+      <Level>3</Level>
+      <Task>4007</Task>
+      <Opcode>40</Opcode>
+      <Keywords>0x8000000000010000</Keywords>
+      <TimeCreated SystemTime="2014-12-05T13:21:37.255299300Z" />
+      <EventRecordID>188</EventRecordID>
+      <Correlation ActivityID="{0350AC40-F800-0000-0865-68FE8D10D001}" />
+      <Execution ProcessID="1536" ThreadID="1548" />
+      <Channel>Microsoft-Windows-Diagnostics-Performance/Operational</Channel>
+      <Computer>Samir-VAIO</Computer>
+      <Security UserID="S-1-5-19" />
+    </System>
+    <EventData>
+      <Data Name="ShutdownTsVersion">1</Data>
+      <Data Name="ShutdownStartTime">2014-12-04T14:49:19.382827400Z</Data>
+      <Data Name="ShutdownEndTime">2014-12-04T14:49:42.884949700Z</Data>
+      <Data Name="ShutdownTime">23502</Data>
+      <Data Name="ShutdownUserSessionTime">14453</Data>
+      <Data Name="ShutdownUserPolicyTime">0</Data>
+      <Data Name="ShutdownUserProfilesTime">228</Data>
+      <Data Name="ShutdownSystemSessionsTime">6547</Data>
+      <Data Name="ShutdownPreShutdownNotificationsTime">1740</Data>
+      <Data Name="ShutdownServicesTime">4671</Data>
+      <Data Name="ShutdownKernelTime">2501</Data>
+      <Data Name="ShutdownRootCauseStepImprovementBits">0</Data>
+      <Data Name="ShutdownRootCauseGradualImprovementBits">0</Data>
+      <Data Name="ShutdownRootCauseStepDegradationBits">0</Data>
+      <Data Name="ShutdownRootCauseGradualDegradationBits">0</Data>
+      <Data Name="ShutdownIsDegradation">false</Data>
+      <Data Name="ShutdownTimeChange">0</Data>
+    </EventData>
+  </Event>
+  <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+    <System>
+      <Provider Name="Microsoft-Windows-Diagnostics-Performance" Guid="{CFC18EC0-96B1-4EBA-961B-622CAEE05B0A}" />
+      <EventID>200</EventID>
+      <Version>1</Version>
+      <Level>2</Level>
+      <Task>4007</Task>
+      <Opcode>40</Opcode>
+      <Keywords>0x8000000000010000</Keywords>
+      <TimeCreated SystemTime="2014-11-28T06:37:53.973718000Z" />
+      <EventRecordID>169</EventRecordID>
+      <Correlation ActivityID="{03500C70-F800-0006-65C8-9C6AD50AD001}" />
+      <Execution ProcessID="1632" ThreadID="2904" />
+      <Channel>Microsoft-Windows-Diagnostics-Performance/Operational</Channel>
+      <Computer>Samir-VAIO</Computer>
+      <Security UserID="S-1-5-19" />
+    </System>
+    <EventData>
+      <Data Name="ShutdownTsVersion">1</Data>
+      <Data Name="ShutdownStartTime">2014-11-27T14:53:27.251951800Z</Data>
+      <Data Name="ShutdownEndTime">2014-11-27T14:55:05.452615900Z</Data>
+      <Data Name="ShutdownTime">98200</Data>
+      <Data Name="ShutdownUserSessionTime">7527</Data>
+      <Data Name="ShutdownUserPolicyTime">0</Data>
+      <Data Name="ShutdownUserProfilesTime">421</Data>
+      <Data Name="ShutdownSystemSessionsTime">80954</Data>
+      <Data Name="ShutdownPreShutdownNotificationsTime">75576</Data>
+      <Data Name="ShutdownServicesTime">5007</Data>
+      <Data Name="ShutdownKernelTime">9718</Data>
+      <Data Name="ShutdownRootCauseStepImprovementBits">0</Data>
+      <Data Name="ShutdownRootCauseGradualImprovementBits">0</Data>
+      <Data Name="ShutdownRootCauseStepDegradationBits">0</Data>
+      <Data Name="ShutdownRootCauseGradualDegradationBits">0</Data>
+      <Data Name="ShutdownIsDegradation">false</Data>
+      <Data Name="ShutdownTimeChange">0</Data>
+    </EventData>
+  </Event>
+  <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+    <System>
+      <Provider Name="Microsoft-Windows-Diagnostics-Performance" Guid="{CFC18EC0-96B1-4EBA-961B-622CAEE05B0A}" />
+      <EventID>200</EventID>
+      <Version>1</Version>
+      <Level>1</Level>
+      <Task>4007</Task>
+      <Opcode>40</Opcode>
+      <Keywords>0x8000000000010000</Keywords>
+      <TimeCreated SystemTime="2014-11-24T11:24:39.499364900Z" />
+      <EventRecordID>165</EventRecordID>
+      <Correlation ActivityID="{034B9C40-F800-0000-C60E-7DC0D807D001}" />
+      <Execution ProcessID="1632" ThreadID="1740" />
+      <Channel>Microsoft-Windows-Diagnostics-Performance/Operational</Channel>
+      <Computer>Samir-VAIO</Computer>
+      <Security UserID="S-1-5-19" />
+    </System>
+    <EventData>
+      <Data Name="ShutdownTsVersion">1</Data>
+      <Data Name="ShutdownStartTime">2014-11-24T07:46:45.974989500Z</Data>
+      <Data Name="ShutdownEndTime">2014-11-24T07:53:55.686750000Z</Data>
+      <Data Name="ShutdownTime">429711</Data>
+      <Data Name="ShutdownUserSessionTime">25106</Data>
+      <Data Name="ShutdownUserPolicyTime">11</Data>
+      <Data Name="ShutdownUserProfilesTime">1519</Data>
+      <Data Name="ShutdownSystemSessionsTime">395408</Data>
+      <Data Name="ShutdownPreShutdownNotificationsTime">389734</Data>
+      <Data Name="ShutdownServicesTime">4998</Data>
+      <Data Name="ShutdownKernelTime">9196</Data>
+      <Data Name="ShutdownRootCauseStepImprovementBits">0</Data>
+      <Data Name="ShutdownRootCauseGradualImprovementBits">0</Data>
+      <Data Name="ShutdownRootCauseStepDegradationBits">0</Data>
+      <Data Name="ShutdownRootCauseGradualDegradationBits">0</Data>
+      <Data Name="ShutdownIsDegradation">false</Data>
+      <Data Name="ShutdownTimeChange">0</Data>
+    </EventData>
+  </Event>
+  <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+    <System>
+      <Provider Name="Microsoft-Windows-Diagnostics-Performance" Guid="{CFC18EC0-96B1-4EBA-961B-622CAEE05B0A}" />
+      <EventID>200</EventID>
+      <Version>1</Version>
+      <Level>3</Level>
+      <Task>4007</Task>
+      <Opcode>40</Opcode>
+      <Keywords>0x8000000000010000</Keywords>
+      <TimeCreated SystemTime="2014-11-24T07:12:56.553844700Z" />
+      <EventRecordID>162</EventRecordID>
+      <Correlation ActivityID="{034B5C60-F800-0004-6565-67B2B507D001}" />
+      <Execution ProcessID="1576" ThreadID="1592" />
+      <Channel>Microsoft-Windows-Diagnostics-Performance/Operational</Channel>
+      <Computer>Samir-VAIO</Computer>
+      <Security UserID="S-1-5-19" />
+    </System>
+    <EventData>
+      <Data Name="ShutdownTsVersion">1</Data>
+      <Data Name="ShutdownStartTime">2014-11-24T07:08:28.987449100Z</Data>
+      <Data Name="ShutdownEndTime">2014-11-24T07:09:17.313083400Z</Data>
+      <Data Name="ShutdownTime">48325</Data>
+      <Data Name="ShutdownUserSessionTime">1777</Data>
+      <Data Name="ShutdownUserPolicyTime">29</Data>
+      <Data Name="ShutdownUserProfilesTime">2</Data>
+      <Data Name="ShutdownSystemSessionsTime">40226</Data>
+      <Data Name="ShutdownPreShutdownNotificationsTime">34724</Data>
+      <Data Name="ShutdownServicesTime">5005</Data>
+      <Data Name="ShutdownKernelTime">6322</Data>
+      <Data Name="ShutdownRootCauseStepImprovementBits">0</Data>
+      <Data Name="ShutdownRootCauseGradualImprovementBits">0</Data>
+      <Data Name="ShutdownRootCauseStepDegradationBits">0</Data>
+      <Data Name="ShutdownRootCauseGradualDegradationBits">0</Data>
+      <Data Name="ShutdownIsDegradation">false</Data>
+      <Data Name="ShutdownTimeChange">0</Data>
+    </EventData>
+  </Event>
+  <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+    <System>
+      <Provider Name="Microsoft-Windows-Diagnostics-Performance" Guid="{CFC18EC0-96B1-4EBA-961B-622CAEE05B0A}" />
+      <EventID>200</EventID>
+      <Version>1</Version>
+      <Level>1</Level>
+      <Task>4007</Task>
+      <Opcode>40</Opcode>
+      <Keywords>0x8000000000010000</Keywords>
+      <TimeCreated SystemTime="2014-11-24T07:06:01.282227300Z" />
+      <EventRecordID>161</EventRecordID>
+      <Correlation ActivityID="{034B4C50-F800-0002-C606-88CDB407D001}" />
+      <Execution ProcessID="1484" ThreadID="3616" />
+      <Channel>Microsoft-Windows-Diagnostics-Performance/Operational</Channel>
+      <Computer>Samir-VAIO</Computer>
+      <Security UserID="S-1-5-19" />
+    </System>
+    <EventData>
+      <Data Name="ShutdownTsVersion">1</Data>
+      <Data Name="ShutdownStartTime">2014-11-13T08:05:44.262828600Z</Data>
+      <Data Name="ShutdownEndTime">2014-11-13T08:10:11.943006000Z</Data>
+      <Data Name="ShutdownTime">267680</Data>
+      <Data Name="ShutdownUserSessionTime">7877</Data>
+      <Data Name="ShutdownUserPolicyTime">0</Data>
+      <Data Name="ShutdownUserProfilesTime">556</Data>
+      <Data Name="ShutdownSystemSessionsTime">255533</Data>
+      <Data Name="ShutdownPreShutdownNotificationsTime">250743</Data>
+      <Data Name="ShutdownServicesTime">4506</Data>
+      <Data Name="ShutdownKernelTime">4269</Data>
+      <Data Name="ShutdownRootCauseStepImprovementBits">0</Data>
+      <Data Name="ShutdownRootCauseGradualImprovementBits">0</Data>
+      <Data Name="ShutdownRootCauseStepDegradationBits">0</Data>
+      <Data Name="ShutdownRootCauseGradualDegradationBits">0</Data>
+      <Data Name="ShutdownIsDegradation">false</Data>
+      <Data Name="ShutdownTimeChange">0</Data>
+    </EventData>
+  </Event>
+  <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+    <System>
+      <Provider Name="Microsoft-Windows-Diagnostics-Performance" Guid="{CFC18EC0-96B1-4EBA-961B-622CAEE05B0A}" />
+      <EventID>200</EventID>
+      <Version>1</Version>
+      <Level>3</Level>
+      <Task>4007</Task>
+      <Opcode>40</Opcode>
+      <Keywords>0x8000000000010000</Keywords>
+      <TimeCreated SystemTime="2014-11-13T07:12:24.844509700Z" />
+      <EventRecordID>159</EventRecordID>
+      <Correlation ActivityID="{034C9C40-F800-0000-45C9-38C310FFCF01}" />
+      <Execution ProcessID="1660" ThreadID="1672" />
+      <Channel>Microsoft-Windows-Diagnostics-Performance/Operational</Channel>
+      <Computer>Samir-VAIO</Computer>
+      <Security UserID="S-1-5-19" />
+    </System>
+    <EventData>
+      <Data Name="ShutdownTsVersion">1</Data>
+      <Data Name="ShutdownStartTime">2014-11-12T08:49:39.854633400Z</Data>
+      <Data Name="ShutdownEndTime">2014-11-12T08:50:22.214380200Z</Data>
+      <Data Name="ShutdownTime">42359</Data>
+      <Data Name="ShutdownUserSessionTime">22503</Data>
+      <Data Name="ShutdownUserPolicyTime">80</Data>
+      <Data Name="ShutdownUserProfilesTime">236</Data>
+      <Data Name="ShutdownSystemSessionsTime">14250</Data>
+      <Data Name="ShutdownPreShutdownNotificationsTime">8955</Data>
+      <Data Name="ShutdownServicesTime">5001</Data>
+      <Data Name="ShutdownKernelTime">5605</Data>
+      <Data Name="ShutdownRootCauseStepImprovementBits">0</Data>
+      <Data Name="ShutdownRootCauseGradualImprovementBits">0</Data>
+      <Data Name="ShutdownRootCauseStepDegradationBits">0</Data>
+      <Data Name="ShutdownRootCauseGradualDegradationBits">0</Data>
+      <Data Name="ShutdownIsDegradation">false</Data>
+      <Data Name="ShutdownTimeChange">0</Data>
+    </EventData>
+  </Event>
+  <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+    <System>
+      <Provider Name="Microsoft-Windows-Diagnostics-Performance" Guid="{CFC18EC0-96B1-4EBA-961B-622CAEE05B0A}" />
+      <EventID>200</EventID>
+      <Version>1</Version>
+      <Level>3</Level>
+      <Task>4007</Task>
+      <Opcode>40</Opcode>
+      <Keywords>0x8000000000010000</Keywords>
+      <TimeCreated SystemTime="2014-11-11T08:42:29.771043500Z" />
+      <EventRecordID>151</EventRecordID>
+      <Correlation ActivityID="{03501C60-F800-0004-6536-44028BFDCF01}" />
+      <Execution ProcessID="1592" ThreadID="3864" />
+      <Channel>Microsoft-Windows-Diagnostics-Performance/Operational</Channel>
+      <Computer>Samir-VAIO</Computer>
+      <Security UserID="S-1-5-19" />
+    </System>
+    <EventData>
+      <Data Name="ShutdownTsVersion">1</Data>
+      <Data Name="ShutdownStartTime">2014-11-11T07:45:31.068584200Z</Data>
+      <Data Name="ShutdownEndTime">2014-11-11T07:45:48.369034000Z</Data>
+      <Data Name="ShutdownTime">17300</Data>
+      <Data Name="ShutdownUserSessionTime">7860</Data>
+      <Data Name="ShutdownUserPolicyTime">0</Data>
+      <Data Name="ShutdownUserProfilesTime">447</Data>
+      <Data Name="ShutdownSystemSessionsTime">5489</Data>
+      <Data Name="ShutdownPreShutdownNotificationsTime">325</Data>
+      <Data Name="ShutdownServicesTime">5007</Data>
+      <Data Name="ShutdownKernelTime">3950</Data>
+      <Data Name="ShutdownRootCauseStepImprovementBits">0</Data>
+      <Data Name="ShutdownRootCauseGradualImprovementBits">0</Data>
+      <Data Name="ShutdownRootCauseStepDegradationBits">0</Data>
+      <Data Name="ShutdownRootCauseGradualDegradationBits">0</Data>
+      <Data Name="ShutdownIsDegradation">false</Data>
+      <Data Name="ShutdownTimeChange">0</Data>
+    </EventData>
+  </Event>
+  <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+    <System>
+      <Provider Name="Microsoft-Windows-Diagnostics-Performance" Guid="{CFC18EC0-96B1-4EBA-961B-622CAEE05B0A}" />
+      <EventID>200</EventID>
+      <Version>1</Version>
+      <Level>1</Level>
+      <Task>4007</Task>
+      <Opcode>40</Opcode>
+      <Keywords>0x8000000000010000</Keywords>
+      <TimeCreated SystemTime="2014-11-11T07:28:53.472890600Z" />
+      <EventRecordID>148</EventRecordID>
+      <Correlation ActivityID="{03512C50-F800-0002-E531-156680FDCF01}" />
+      <Execution ProcessID="1728" ThreadID="3720" />
+      <Channel>Microsoft-Windows-Diagnostics-Performance/Operational</Channel>
+      <Computer>Samir-VAIO</Computer>
+      <Security UserID="S-1-5-19" />
+    </System>
+    <EventData>
+      <Data Name="ShutdownTsVersion">1</Data>
+      <Data Name="ShutdownStartTime">2014-11-11T07:18:12.542632700Z</Data>
+      <Data Name="ShutdownEndTime">2014-11-11T07:23:12.795290800Z</Data>
+      <Data Name="ShutdownTime">300252</Data>
+      <Data Name="ShutdownUserSessionTime">15317</Data>
+      <Data Name="ShutdownUserPolicyTime">50</Data>
+      <Data Name="ShutdownUserProfilesTime">1566</Data>
+      <Data Name="ShutdownSystemSessionsTime">277900</Data>
+      <Data Name="ShutdownPreShutdownNotificationsTime">233367</Data>
+      <Data Name="ShutdownServicesTime">5002</Data>
+      <Data Name="ShutdownKernelTime">7034</Data>
+      <Data Name="ShutdownRootCauseStepImprovementBits">0</Data>
+      <Data Name="ShutdownRootCauseGradualImprovementBits">0</Data>
+      <Data Name="ShutdownRootCauseStepDegradationBits">0</Data>
+      <Data Name="ShutdownRootCauseGradualDegradationBits">0</Data>
+      <Data Name="ShutdownIsDegradation">false</Data>
+      <Data Name="ShutdownTimeChange">0</Data>
+    </EventData>
+  </Event>
+  <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+    <System>
+      <Provider Name="Microsoft-Windows-Diagnostics-Performance" Guid="{CFC18EC0-96B1-4EBA-961B-622CAEE05B0A}" />
+      <EventID>200</EventID>
+      <Version>1</Version>
+      <Level>3</Level>
+      <Task>4007</Task>
+      <Opcode>40</Opcode>
+      <Keywords>0x8000000000010000</Keywords>
+      <TimeCreated SystemTime="2014-11-11T06:49:02.344821900Z" />
+      <EventRecordID>145</EventRecordID>
+      <Correlation ActivityID="{00000100-0000-0002-65BB-572E7BFDCF01}" />
+      <Execution ProcessID="1576" ThreadID="3452" />
+      <Channel>Microsoft-Windows-Diagnostics-Performance/Operational</Channel>
+      <Computer>Samir-VAIO</Computer>
+      <Security UserID="S-1-5-19" />
+    </System>
+    <EventData>
+      <Data Name="ShutdownTsVersion">1</Data>
+      <Data Name="ShutdownStartTime">2014-11-10T08:53:10.676989200Z</Data>
+      <Data Name="ShutdownEndTime">2014-11-10T08:53:33.747016700Z</Data>
+      <Data Name="ShutdownTime">23070</Data>
+      <Data Name="ShutdownUserSessionTime">12474</Data>
+      <Data Name="ShutdownUserPolicyTime">12</Data>
+      <Data Name="ShutdownUserProfilesTime">327</Data>
+      <Data Name="ShutdownSystemSessionsTime">7156</Data>
+      <Data Name="ShutdownPreShutdownNotificationsTime">1764</Data>
+      <Data Name="ShutdownServicesTime">5003</Data>
+      <Data Name="ShutdownKernelTime">3438</Data>
+      <Data Name="ShutdownRootCauseStepImprovementBits">0</Data>
+      <Data Name="ShutdownRootCauseGradualImprovementBits">0</Data>
+      <Data Name="ShutdownRootCauseStepDegradationBits">0</Data>
+      <Data Name="ShutdownRootCauseGradualDegradationBits">0</Data>
+      <Data Name="ShutdownIsDegradation">false</Data>
+      <Data Name="ShutdownTimeChange">0</Data>
+    </EventData>
+  </Event>
+  <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+    <System>
+      <Provider Name="Microsoft-Windows-Diagnostics-Performance" Guid="{CFC18EC0-96B1-4EBA-961B-622CAEE05B0A}" />
+      <EventID>200</EventID>
+      <Version>1</Version>
+      <Level>3</Level>
+      <Task>4007</Task>
+      <Opcode>40</Opcode>
+      <Keywords>0x8000000000010000</Keywords>
+      <TimeCreated SystemTime="2014-11-10T06:50:47.837640400Z" />
+      <EventRecordID>143</EventRecordID>
+      <Correlation ActivityID="{00000100-0000-0006-2906-E956B2FCCF01}" />
+      <Execution ProcessID="1560" ThreadID="3300" />
+      <Channel>Microsoft-Windows-Diagnostics-Performance/Operational</Channel>
+      <Computer>Samir-VAIO</Computer>
+      <Security UserID="S-1-5-19" />
+    </System>
+    <EventData>
+      <Data Name="ShutdownTsVersion">1</Data>
+      <Data Name="ShutdownStartTime">2014-11-10T05:56:25.953202700Z</Data>
+      <Data Name="ShutdownEndTime">2014-11-10T05:56:43.322076400Z</Data>
+      <Data Name="ShutdownTime">17368</Data>
+      <Data Name="ShutdownUserSessionTime">7944</Data>
+      <Data Name="ShutdownUserPolicyTime">0</Data>
+      <Data Name="ShutdownUserProfilesTime">137</Data>
+      <Data Name="ShutdownSystemSessionsTime">6435</Data>
+      <Data Name="ShutdownPreShutdownNotificationsTime">1631</Data>
+      <Data Name="ShutdownServicesTime">4459</Data>
+      <Data Name="ShutdownKernelTime">2988</Data>
+      <Data Name="ShutdownRootCauseStepImprovementBits">0</Data>
+      <Data Name="ShutdownRootCauseGradualImprovementBits">0</Data>
+      <Data Name="ShutdownRootCauseStepDegradationBits">0</Data>
+      <Data Name="ShutdownRootCauseGradualDegradationBits">0</Data>
+      <Data Name="ShutdownIsDegradation">false</Data>
+      <Data Name="ShutdownTimeChange">0</Data>
+    </EventData>
+  </Event>
+  <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+    <System>
+      <Provider Name="Microsoft-Windows-Diagnostics-Performance" Guid="{CFC18EC0-96B1-4EBA-961B-622CAEE05B0A}" />
+      <EventID>200</EventID>
+      <Version>1</Version>
+      <Level>3</Level>
+      <Task>4007</Task>
+      <Opcode>40</Opcode>
+      <Keywords>0x8000000000010000</Keywords>
+      <TimeCreated SystemTime="2014-11-10T05:44:14.236902100Z" />
+      <EventRecordID>137</EventRecordID>
+      <Correlation ActivityID="{00000100-0000-0006-87B0-5AF8A8FCCF01}" />
+      <Execution ProcessID="1556" ThreadID="1568" />
+      <Channel>Microsoft-Windows-Diagnostics-Performance/Operational</Channel>
+      <Computer>Samir-VAIO</Computer>
+      <Security UserID="S-1-5-19" />
+    </System>
+    <EventData>
+      <Data Name="ShutdownTsVersion">1</Data>
+      <Data Name="ShutdownStartTime">2014-11-07T08:17:39.681144900Z</Data>
+      <Data Name="ShutdownEndTime">2014-11-07T08:18:03.974300500Z</Data>
+      <Data Name="ShutdownTime">24293</Data>
+      <Data Name="ShutdownUserSessionTime">12656</Data>
+      <Data Name="ShutdownUserPolicyTime">12</Data>
+      <Data Name="ShutdownUserProfilesTime">409</Data>
+      <Data Name="ShutdownSystemSessionsTime">7344</Data>
+      <Data Name="ShutdownPreShutdownNotificationsTime">1879</Data>
+      <Data Name="ShutdownServicesTime">5001</Data>
+      <Data Name="ShutdownKernelTime">4292</Data>
+      <Data Name="ShutdownRootCauseStepImprovementBits">0</Data>
+      <Data Name="ShutdownRootCauseGradualImprovementBits">0</Data>
+      <Data Name="ShutdownRootCauseStepDegradationBits">128</Data>
+      <Data Name="ShutdownRootCauseGradualDegradationBits">128</Data>
+      <Data Name="ShutdownIsDegradation">true</Data>
+      <Data Name="ShutdownTimeChange">0</Data>
+    </EventData>
+  </Event>
+  <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+    <System>
+      <Provider Name="Microsoft-Windows-Diagnostics-Performance" Guid="{CFC18EC0-96B1-4EBA-961B-622CAEE05B0A}" />
+      <EventID>200</EventID>
+      <Version>1</Version>
+      <Level>1</Level>
+      <Task>4007</Task>
+      <Opcode>40</Opcode>
+      <Keywords>0x8000000000010000</Keywords>
+      <TimeCreated SystemTime="2014-11-03T07:07:22.625463100Z" />
+      <EventRecordID>129</EventRecordID>
+      <Correlation ActivityID="{00000100-0000-0006-AA46-215A34F7CF01}" />
+      <Execution ProcessID="1560" ThreadID="3488" />
+      <Channel>Microsoft-Windows-Diagnostics-Performance/Operational</Channel>
+      <Computer>Samir-VAIO</Computer>
+      <Security UserID="S-1-5-19" />
+    </System>
+    <EventData>
+      <Data Name="ShutdownTsVersion">1</Data>
+      <Data Name="ShutdownStartTime">2014-10-31T07:54:01.446634400Z</Data>
+      <Data Name="ShutdownEndTime">2014-10-31T08:01:15.541507500Z</Data>
+      <Data Name="ShutdownTime">434094</Data>
+      <Data Name="ShutdownUserSessionTime">7532</Data>
+      <Data Name="ShutdownUserPolicyTime">0</Data>
+      <Data Name="ShutdownUserProfilesTime">406</Data>
+      <Data Name="ShutdownSystemSessionsTime">421413</Data>
+      <Data Name="ShutdownPreShutdownNotificationsTime">416247</Data>
+      <Data Name="ShutdownServicesTime">4997</Data>
+      <Data Name="ShutdownKernelTime">5148</Data>
+      <Data Name="ShutdownRootCauseStepImprovementBits">0</Data>
+      <Data Name="ShutdownRootCauseGradualImprovementBits">0</Data>
+      <Data Name="ShutdownRootCauseStepDegradationBits">0</Data>
+      <Data Name="ShutdownRootCauseGradualDegradationBits">0</Data>
+      <Data Name="ShutdownIsDegradation">false</Data>
+      <Data Name="ShutdownTimeChange">0</Data>
+    </EventData>
+  </Event>
+  <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+    <System>
+      <Provider Name="Microsoft-Windows-Diagnostics-Performance" Guid="{CFC18EC0-96B1-4EBA-961B-622CAEE05B0A}" />
+      <EventID>200</EventID>
+      <Version>1</Version>
+      <Level>3</Level>
+      <Task>4007</Task>
+      <Opcode>40</Opcode>
+      <Keywords>0x8000000000010000</Keywords>
+      <TimeCreated SystemTime="2014-10-31T07:28:36.290085500Z" />
+      <EventRecordID>119</EventRecordID>
+      <Correlation ActivityID="{00000100-0000-0000-E623-AED8DBF4CF01}" />
+      <Execution ProcessID="1648" ThreadID="2932" />
+      <Channel>Microsoft-Windows-Diagnostics-Performance/Operational</Channel>
+      <Computer>Samir-VAIO</Computer>
+      <Security UserID="S-1-5-19" />
+    </System>
+    <EventData>
+      <Data Name="ShutdownTsVersion">1</Data>
+      <Data Name="ShutdownStartTime">2014-10-31T07:24:43.993571300Z</Data>
+      <Data Name="ShutdownEndTime">2014-10-31T07:25:09.978427200Z</Data>
+      <Data Name="ShutdownTime">25984</Data>
+      <Data Name="ShutdownUserSessionTime">9355</Data>
+      <Data Name="ShutdownUserPolicyTime">12</Data>
+      <Data Name="ShutdownUserProfilesTime">669</Data>
+      <Data Name="ShutdownSystemSessionsTime">13036</Data>
+      <Data Name="ShutdownPreShutdownNotificationsTime">7785</Data>
+      <Data Name="ShutdownServicesTime">5007</Data>
+      <Data Name="ShutdownKernelTime">3592</Data>
+      <Data Name="ShutdownRootCauseStepImprovementBits">0</Data>
+      <Data Name="ShutdownRootCauseGradualImprovementBits">0</Data>
+      <Data Name="ShutdownRootCauseStepDegradationBits">0</Data>
+      <Data Name="ShutdownRootCauseGradualDegradationBits">0</Data>
+      <Data Name="ShutdownIsDegradation">false</Data>
+      <Data Name="ShutdownTimeChange">0</Data>
+    </EventData>
+  </Event>
+  <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+    <System>
+      <Provider Name="Microsoft-Windows-Diagnostics-Performance" Guid="{CFC18EC0-96B1-4EBA-961B-622CAEE05B0A}" />
+      <EventID>200</EventID>
+      <Version>1</Version>
+      <Level>3</Level>
+      <Task>4007</Task>
+      <Opcode>40</Opcode>
+      <Keywords>0x8000000000010000</Keywords>
+      <TimeCreated SystemTime="2014-10-31T06:40:06.859076900Z" />
+      <EventRecordID>113</EventRecordID>
+      <Correlation ActivityID="{00000100-0000-0006-C9ED-80F4D4F4CF01}" />
+      <Execution ProcessID="1540" ThreadID="3008" />
+      <Channel>Microsoft-Windows-Diagnostics-Performance/Operational</Channel>
+      <Computer>Samir-VAIO</Computer>
+      <Security UserID="S-1-5-19" />
+    </System>
+    <EventData>
+      <Data Name="ShutdownTsVersion">1</Data>
+      <Data Name="ShutdownStartTime">2014-10-30T08:07:20.287630400Z</Data>
+      <Data Name="ShutdownEndTime">2014-10-30T08:07:37.885093500Z</Data>
+      <Data Name="ShutdownTime">17597</Data>
+      <Data Name="ShutdownUserSessionTime">8671</Data>
+      <Data Name="ShutdownUserPolicyTime">0</Data>
+      <Data Name="ShutdownUserProfilesTime">173</Data>
+      <Data Name="ShutdownSystemSessionsTime">5782</Data>
+      <Data Name="ShutdownPreShutdownNotificationsTime">355</Data>
+      <Data Name="ShutdownServicesTime">4999</Data>
+      <Data Name="ShutdownKernelTime">3142</Data>
+      <Data Name="ShutdownRootCauseStepImprovementBits">0</Data>
+      <Data Name="ShutdownRootCauseGradualImprovementBits">0</Data>
+      <Data Name="ShutdownRootCauseStepDegradationBits">0</Data>
+      <Data Name="ShutdownRootCauseGradualDegradationBits">0</Data>
+      <Data Name="ShutdownIsDegradation">false</Data>
+      <Data Name="ShutdownTimeChange">0</Data>
+    </EventData>
+  </Event>
+  <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+    <System>
+      <Provider Name="Microsoft-Windows-Diagnostics-Performance" Guid="{CFC18EC0-96B1-4EBA-961B-622CAEE05B0A}" />
+      <EventID>200</EventID>
+      <Version>1</Version>
+      <Level>1</Level>
+      <Task>4007</Task>
+      <Opcode>40</Opcode>
+      <Keywords>0x8000000000010000</Keywords>
+      <TimeCreated SystemTime="2014-10-30T04:24:59.372179300Z" />
+      <EventRecordID>107</EventRecordID>
+      <Correlation ActivityID="{00000100-0000-0004-493F-830CF9F3CF01}" />
+      <Execution ProcessID="1560" ThreadID="1576" />
+      <Channel>Microsoft-Windows-Diagnostics-Performance/Operational</Channel>
+      <Computer>Samir-VAIO</Computer>
+      <Security UserID="S-1-5-19" />
+    </System>
+    <EventData>
+      <Data Name="ShutdownTsVersion">1</Data>
+      <Data Name="ShutdownStartTime">2014-10-28T07:47:00.644865300Z</Data>
+      <Data Name="ShutdownEndTime">2014-10-30T04:21:32.447257900Z</Data>
+      <Data Name="ShutdownTime">160471802</Data>
+      <Data Name="ShutdownUserSessionTime">13034</Data>
+      <Data Name="ShutdownUserPolicyTime">111</Data>
+      <Data Name="ShutdownUserProfilesTime">165</Data>
+      <Data Name="ShutdownSystemSessionsTime">160444813</Data>
+      <Data Name="ShutdownPreShutdownNotificationsTime">160427391</Data>
+      <Data Name="ShutdownServicesTime">5001</Data>
+      <Data Name="ShutdownKernelTime">13954</Data>
+      <Data Name="ShutdownRootCauseStepImprovementBits">0</Data>
+      <Data Name="ShutdownRootCauseGradualImprovementBits">0</Data>
+      <Data Name="ShutdownRootCauseStepDegradationBits">0</Data>
+      <Data Name="ShutdownRootCauseGradualDegradationBits">0</Data>
+      <Data Name="ShutdownIsDegradation">false</Data>
+      <Data Name="ShutdownTimeChange">0</Data>
+    </EventData>
+  </Event>
+  <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+    <System>
+      <Provider Name="Microsoft-Windows-Diagnostics-Performance" Guid="{CFC18EC0-96B1-4EBA-961B-622CAEE05B0A}" />
+      <EventID>200</EventID>
+      <Version>1</Version>
+      <Level>3</Level>
+      <Task>4007</Task>
+      <Opcode>40</Opcode>
+      <Keywords>0x8000000000010000</Keywords>
+      <TimeCreated SystemTime="2014-10-24T07:20:12.754983900Z" />
+      <EventRecordID>91</EventRecordID>
+      <Correlation ActivityID="{00000100-0000-0006-0708-F8705AEFCF01}" />
+      <Execution ProcessID="1616" ThreadID="2816" />
+      <Channel>Microsoft-Windows-Diagnostics-Performance/Operational</Channel>
+      <Computer>Samir-VAIO</Computer>
+      <Security UserID="S-1-5-19" />
+    </System>
+    <EventData>
+      <Data Name="ShutdownTsVersion">1</Data>
+      <Data Name="ShutdownStartTime">2014-10-20T07:06:29.244534100Z</Data>
+      <Data Name="ShutdownEndTime">2014-10-20T07:06:46.238155500Z</Data>
+      <Data Name="ShutdownTime">16993</Data>
+      <Data Name="ShutdownUserSessionTime">8153</Data>
+      <Data Name="ShutdownUserPolicyTime">0</Data>
+      <Data Name="ShutdownUserProfilesTime">261</Data>
+      <Data Name="ShutdownSystemSessionsTime">6276</Data>
+      <Data Name="ShutdownPreShutdownNotificationsTime">1527</Data>
+      <Data Name="ShutdownServicesTime">4415</Data>
+      <Data Name="ShutdownKernelTime">2563</Data>
+      <Data Name="ShutdownRootCauseStepImprovementBits">0</Data>
+      <Data Name="ShutdownRootCauseGradualImprovementBits">0</Data>
+      <Data Name="ShutdownRootCauseStepDegradationBits">259</Data>
+      <Data Name="ShutdownRootCauseGradualDegradationBits">259</Data>
+      <Data Name="ShutdownIsDegradation">true</Data>
+      <Data Name="ShutdownTimeChange">10626</Data>
+    </EventData>
+  </Event>
+  <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+    <System>
+      <Provider Name="Microsoft-Windows-Diagnostics-Performance" Guid="{CFC18EC0-96B1-4EBA-961B-622CAEE05B0A}" />
+      <EventID>200</EventID>
+      <Version>1</Version>
+      <Level>1</Level>
+      <Task>4007</Task>
+      <Opcode>40</Opcode>
+      <Keywords>0x8000000000010000</Keywords>
+      <TimeCreated SystemTime="2014-10-20T06:57:56.300862600Z" />
+      <EventRecordID>88</EventRecordID>
+      <Correlation ActivityID="{00000100-0000-0006-08BF-4A2432ECCF01}" />
+      <Execution ProcessID="1580" ThreadID="2368" />
+      <Channel>Microsoft-Windows-Diagnostics-Performance/Operational</Channel>
+      <Computer>Samir-VAIO</Computer>
+      <Security UserID="S-1-5-19" />
+    </System>
+    <EventData>
+      <Data Name="ShutdownTsVersion">1</Data>
+      <Data Name="ShutdownStartTime">2014-01-21T05:15:56.420947300Z</Data>
+      <Data Name="ShutdownEndTime">2014-10-20T06:19:50.141885400Z</Data>
+      <Data Name="ShutdownTime">2029797240</Data>
+      <Data Name="ShutdownUserSessionTime">19018</Data>
+      <Data Name="ShutdownUserPolicyTime">21</Data>
+      <Data Name="ShutdownUserProfilesTime">461</Data>
+      <Data Name="ShutdownSystemSessionsTime">6012</Data>
+      <Data Name="ShutdownPreShutdownNotificationsTime">553</Data>
+      <Data Name="ShutdownServicesTime">5006</Data>
+      <Data Name="ShutdownKernelTime">2029772209</Data>
+      <Data Name="ShutdownRootCauseStepImprovementBits">0</Data>
+      <Data Name="ShutdownRootCauseGradualImprovementBits">0</Data>
+      <Data Name="ShutdownRootCauseStepDegradationBits">0</Data>
+      <Data Name="ShutdownRootCauseGradualDegradationBits">0</Data>
+      <Data Name="ShutdownIsDegradation">false</Data>
+      <Data Name="ShutdownTimeChange">0</Data>
+    </EventData>
+  </Event>
+  <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+    <System>
+      <Provider Name="Microsoft-Windows-Diagnostics-Performance" Guid="{CFC18EC0-96B1-4EBA-961B-622CAEE05B0A}" />
+      <EventID>200</EventID>
+      <Version>1</Version>
+      <Level>3</Level>
+      <Task>4007</Task>
+      <Opcode>40</Opcode>
+      <Keywords>0x8000000000010000</Keywords>
+      <TimeCreated SystemTime="2014-01-16T16:48:53.384169000Z" />
+      <EventRecordID>60</EventRecordID>
+      <Correlation ActivityID="{00000100-0000-0006-272F-CF6EDA12CF01}" />
+      <Execution ProcessID="1536" ThreadID="2124" />
+      <Channel>Microsoft-Windows-Diagnostics-Performance/Operational</Channel>
+      <Computer>Samir-VAIO</Computer>
+      <Security UserID="S-1-5-19" />
+    </System>
+    <EventData>
+      <Data Name="ShutdownTsVersion">1</Data>
+      <Data Name="ShutdownStartTime">2014-01-15T09:47:25.583828100Z</Data>
+      <Data Name="ShutdownEndTime">2014-01-15T09:47:41.206910800Z</Data>
+      <Data Name="ShutdownTime">15623</Data>
+      <Data Name="ShutdownUserSessionTime">7345</Data>
+      <Data Name="ShutdownUserPolicyTime">0</Data>
+      <Data Name="ShutdownUserProfilesTime">114</Data>
+      <Data Name="ShutdownSystemSessionsTime">6302</Data>
+      <Data Name="ShutdownPreShutdownNotificationsTime">1624</Data>
+      <Data Name="ShutdownServicesTime">4433</Data>
+      <Data Name="ShutdownKernelTime">1974</Data>
+      <Data Name="ShutdownRootCauseStepImprovementBits">0</Data>
+      <Data Name="ShutdownRootCauseGradualImprovementBits">0</Data>
+      <Data Name="ShutdownRootCauseStepDegradationBits">192</Data>
+      <Data Name="ShutdownRootCauseGradualDegradationBits">0</Data>
+      <Data Name="ShutdownIsDegradation">true</Data>
+      <Data Name="ShutdownTimeChange">0</Data>
+    </EventData>
+  </Event>
+  <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+    <System>
+      <Provider Name="Microsoft-Windows-Diagnostics-Performance" Guid="{CFC18EC0-96B1-4EBA-961B-622CAEE05B0A}" />
+      <EventID>200</EventID>
+      <Version>1</Version>
+      <Level>3</Level>
+      <Task>4007</Task>
+      <Opcode>40</Opcode>
+      <Keywords>0x8000000000010000</Keywords>
+      <TimeCreated SystemTime="2014-01-15T07:48:43.662901200Z" />
+      <EventRecordID>55</EventRecordID>
+      <Correlation ActivityID="{00000100-0000-0002-29A2-A3E7C511CF01}" />
+      <Execution ProcessID="1516" ThreadID="1536" />
+      <Channel>Microsoft-Windows-Diagnostics-Performance/Operational</Channel>
+      <Computer>Samir-VAIO</Computer>
+      <Security UserID="S-1-5-19" />
+    </System>
+    <EventData>
+      <Data Name="ShutdownTsVersion">1</Data>
+      <Data Name="ShutdownStartTime">2014-01-15T06:56:08.754842200Z</Data>
+      <Data Name="ShutdownEndTime">2014-01-15T06:56:25.872265900Z</Data>
+      <Data Name="ShutdownTime">17117</Data>
+      <Data Name="ShutdownUserSessionTime">8392</Data>
+      <Data Name="ShutdownUserPolicyTime">0</Data>
+      <Data Name="ShutdownUserProfilesTime">127</Data>
+      <Data Name="ShutdownSystemSessionsTime">6513</Data>
+      <Data Name="ShutdownPreShutdownNotificationsTime">1637</Data>
+      <Data Name="ShutdownServicesTime">4438</Data>
+      <Data Name="ShutdownKernelTime">2211</Data>
+      <Data Name="ShutdownRootCauseStepImprovementBits">0</Data>
+      <Data Name="ShutdownRootCauseGradualImprovementBits">0</Data>
+      <Data Name="ShutdownRootCauseStepDegradationBits">16</Data>
+      <Data Name="ShutdownRootCauseGradualDegradationBits">80</Data>
+      <Data Name="ShutdownIsDegradation">true</Data>
+      <Data Name="ShutdownTimeChange">0</Data>
+    </EventData>
+  </Event>
+  <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+    <System>
+      <Provider Name="Microsoft-Windows-Diagnostics-Performance" Guid="{CFC18EC0-96B1-4EBA-961B-622CAEE05B0A}" />
+      <EventID>200</EventID>
+      <Version>1</Version>
+      <Level>3</Level>
+      <Task>4007</Task>
+      <Opcode>40</Opcode>
+      <Keywords>0x8000000000010000</Keywords>
+      <TimeCreated SystemTime="2014-01-15T06:29:44.164674000Z" />
+      <EventRecordID>48</EventRecordID>
+      <Correlation ActivityID="{00000100-0000-0000-29B1-BAC7BA11CF01}" />
+      <Execution ProcessID="1528" ThreadID="2128" />
+      <Channel>Microsoft-Windows-Diagnostics-Performance/Operational</Channel>
+      <Computer>Samir-VAIO</Computer>
+      <Security UserID="S-1-5-19" />
+    </System>
+    <EventData>
+      <Data Name="ShutdownTsVersion">1</Data>
+      <Data Name="ShutdownStartTime">2014-01-15T00:37:34.129954300Z</Data>
+      <Data Name="ShutdownEndTime">2014-01-15T00:37:41.920594700Z</Data>
+      <Data Name="ShutdownTime">7790</Data>
+      <Data Name="ShutdownUserSessionTime">0</Data>
+      <Data Name="ShutdownUserPolicyTime">2</Data>
+      <Data Name="ShutdownUserProfilesTime">0</Data>
+      <Data Name="ShutdownSystemSessionsTime">5475</Data>
+      <Data Name="ShutdownPreShutdownNotificationsTime">103</Data>
+      <Data Name="ShutdownServicesTime">4008</Data>
+      <Data Name="ShutdownKernelTime">2314</Data>
+      <Data Name="ShutdownRootCauseStepImprovementBits">2</Data>
+      <Data Name="ShutdownRootCauseGradualImprovementBits">2</Data>
+      <Data Name="ShutdownRootCauseStepDegradationBits">0</Data>
+      <Data Name="ShutdownRootCauseGradualDegradationBits">0</Data>
+      <Data Name="ShutdownIsDegradation">false</Data>
+      <Data Name="ShutdownTimeChange">0</Data>
+    </EventData>
+  </Event>
+  <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+    <System>
+      <Provider Name="Microsoft-Windows-Diagnostics-Performance" Guid="{CFC18EC0-96B1-4EBA-961B-622CAEE05B0A}" />
+      <EventID>200</EventID>
+      <Version>1</Version>
+      <Level>3</Level>
+      <Task>4007</Task>
+      <Opcode>40</Opcode>
+      <Keywords>0x8000000000010000</Keywords>
+      <TimeCreated SystemTime="2014-01-14T11:14:12.619680500Z" />
+      <EventRecordID>45</EventRecordID>
+      <Correlation ActivityID="{00000100-0000-0000-65B3-2C088A11CF01}" />
+      <Execution ProcessID="1612" ThreadID="2124" />
+      <Channel>Microsoft-Windows-Diagnostics-Performance/Operational</Channel>
+      <Computer>Samir-VAIO</Computer>
+      <Security UserID="S-1-5-19" />
+    </System>
+    <EventData>
+      <Data Name="ShutdownTsVersion">1</Data>
+      <Data Name="ShutdownStartTime">2014-01-15T00:37:34.129954300Z</Data>
+      <Data Name="ShutdownEndTime">2014-01-15T00:37:41.920594700Z</Data>
+      <Data Name="ShutdownTime">7790</Data>
+      <Data Name="ShutdownUserSessionTime">0</Data>
+      <Data Name="ShutdownUserPolicyTime">2</Data>
+      <Data Name="ShutdownUserProfilesTime">0</Data>
+      <Data Name="ShutdownSystemSessionsTime">5475</Data>
+      <Data Name="ShutdownPreShutdownNotificationsTime">103</Data>
+      <Data Name="ShutdownServicesTime">4008</Data>
+      <Data Name="ShutdownKernelTime">2314</Data>
+      <Data Name="ShutdownRootCauseStepImprovementBits">0</Data>
+      <Data Name="ShutdownRootCauseGradualImprovementBits">0</Data>
+      <Data Name="ShutdownRootCauseStepDegradationBits">64</Data>
+      <Data Name="ShutdownRootCauseGradualDegradationBits">0</Data>
+      <Data Name="ShutdownIsDegradation">true</Data>
+      <Data Name="ShutdownTimeChange">0</Data>
+    </EventData>
+  </Event>
+  <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+    <System>
+      <Provider Name="Microsoft-Windows-Diagnostics-Performance" Guid="{CFC18EC0-96B1-4EBA-961B-622CAEE05B0A}" />
+      <EventID>200</EventID>
+      <Version>1</Version>
+      <Level>3</Level>
+      <Task>4007</Task>
+      <Opcode>40</Opcode>
+      <Keywords>0x8000000000010000</Keywords>
+      <TimeCreated SystemTime="2014-01-14T23:28:40.874984400Z" />
+      <EventRecordID>43</EventRecordID>
+      <Correlation ActivityID="{00000100-0000-0005-64B7-B10B8011CF01}" />
+      <Execution ProcessID="1348" ThreadID="1916" />
+      <Channel>Microsoft-Windows-Diagnostics-Performance/Operational</Channel>
+      <Computer>WIN-14901R7Q0O5</Computer>
+      <Security UserID="S-1-5-19" />
+    </System>
+    <EventData>
+      <Data Name="ShutdownTsVersion">1</Data>
+      <Data Name="ShutdownStartTime">2014-01-14T23:26:06.744698500Z</Data>
+      <Data Name="ShutdownEndTime">2014-01-14T23:26:12.091857100Z</Data>
+      <Data Name="ShutdownTime">5347</Data>
+      <Data Name="ShutdownUserSessionTime">0</Data>
+      <Data Name="ShutdownUserPolicyTime">46</Data>
+      <Data Name="ShutdownUserProfilesTime">0</Data>
+      <Data Name="ShutdownSystemSessionsTime">3374</Data>
+      <Data Name="ShutdownPreShutdownNotificationsTime">343</Data>
+      <Data Name="ShutdownServicesTime">2083</Data>
+      <Data Name="ShutdownKernelTime">1972</Data>
+      <Data Name="ShutdownRootCauseStepImprovementBits">0</Data>
+      <Data Name="ShutdownRootCauseGradualImprovementBits">0</Data>
+      <Data Name="ShutdownRootCauseStepDegradationBits">0</Data>
+      <Data Name="ShutdownRootCauseGradualDegradationBits">0</Data>
+      <Data Name="ShutdownIsDegradation">false</Data>
+      <Data Name="ShutdownTimeChange">0</Data>
+    </EventData>
+  </Event>
+  <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+    <System>
+      <Provider Name="Microsoft-Windows-Diagnostics-Performance" Guid="{CFC18EC0-96B1-4EBA-961B-622CAEE05B0A}" />
+      <EventID>200</EventID>
+      <Version>1</Version>
+      <Level>3</Level>
+      <Task>4007</Task>
+      <Opcode>40</Opcode>
+      <Keywords>0x8000000000010000</Keywords>
+      <TimeCreated SystemTime="2014-01-14T23:04:16.012413100Z" />
+      <EventRecordID>40</EventRecordID>
+      <Correlation ActivityID="{00000100-0000-0006-64EF-C6947C11CF01}" />
+      <Execution ProcessID="1368" ThreadID="2004" />
+      <Channel>Microsoft-Windows-Diagnostics-Performance/Operational</Channel>
+      <Computer>WIN-14901R7Q0O5</Computer>
+      <Security UserID="S-1-5-19" />
+    </System>
+    <EventData>
+      <Data Name="ShutdownTsVersion">1</Data>
+      <Data Name="ShutdownStartTime">2014-01-14T23:01:19.890774900Z</Data>
+      <Data Name="ShutdownEndTime">2014-01-14T23:01:25.193737200Z</Data>
+      <Data Name="ShutdownTime">5302</Data>
+      <Data Name="ShutdownUserSessionTime">0</Data>
+      <Data Name="ShutdownUserPolicyTime">25</Data>
+      <Data Name="ShutdownUserProfilesTime">168</Data>
+      <Data Name="ShutdownSystemSessionsTime">3793</Data>
+      <Data Name="ShutdownPreShutdownNotificationsTime">1420</Data>
+      <Data Name="ShutdownServicesTime">2044</Data>
+      <Data Name="ShutdownKernelTime">1508</Data>
+      <Data Name="ShutdownRootCauseStepImprovementBits">0</Data>
+      <Data Name="ShutdownRootCauseGradualImprovementBits">0</Data>
+      <Data Name="ShutdownRootCauseStepDegradationBits">0</Data>
+      <Data Name="ShutdownRootCauseGradualDegradationBits">0</Data>
+      <Data Name="ShutdownIsDegradation">false</Data>
+      <Data Name="ShutdownTimeChange">0</Data>
+    </EventData>
+  </Event>
+  <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+    <System>
+      <Provider Name="Microsoft-Windows-Diagnostics-Performance" Guid="{CFC18EC0-96B1-4EBA-961B-622CAEE05B0A}" />
+      <EventID>200</EventID>
+      <Version>1</Version>
+      <Level>3</Level>
+      <Task>4007</Task>
+      <Opcode>40</Opcode>
+      <Keywords>0x8000000000010000</Keywords>
+      <TimeCreated SystemTime="2010-07-29T20:46:58.337006400Z" />
+      <EventRecordID>36</EventRecordID>
+      <Correlation ActivityID="{00000100-0000-0002-A5E5-D0E95E2FCB01}" />
+      <Execution ProcessID="1164" ThreadID="1620" />
+      <Channel>Microsoft-Windows-Diagnostics-Performance/Operational</Channel>
+      <Computer>WIN-IBMCHNQPHVF</Computer>
+      <Security UserID="S-1-5-19" />
+    </System>
+    <EventData>
+      <Data Name="ShutdownTsVersion">1</Data>
+      <Data Name="ShutdownStartTime">2010-07-29T20:44:40.549390800Z</Data>
+      <Data Name="ShutdownEndTime">2010-07-29T20:44:46.916940000Z</Data>
+      <Data Name="ShutdownTime">6367</Data>
+      <Data Name="ShutdownUserSessionTime">2628</Data>
+      <Data Name="ShutdownUserPolicyTime">0</Data>
+      <Data Name="ShutdownUserProfilesTime">100</Data>
+      <Data Name="ShutdownSystemSessionsTime">2168</Data>
+      <Data Name="ShutdownPreShutdownNotificationsTime">219</Data>
+      <Data Name="ShutdownServicesTime">1554</Data>
+      <Data Name="ShutdownKernelTime">1570</Data>
+      <Data Name="ShutdownRootCauseStepImprovementBits">0</Data>
+      <Data Name="ShutdownRootCauseGradualImprovementBits">128</Data>
+      <Data Name="ShutdownRootCauseStepDegradationBits">0</Data>
+      <Data Name="ShutdownRootCauseGradualDegradationBits">0</Data>
+      <Data Name="ShutdownIsDegradation">false</Data>
+      <Data Name="ShutdownTimeChange">0</Data>
+    </EventData>
+  </Event>
+  <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+    <System>
+      <Provider Name="Microsoft-Windows-Diagnostics-Performance" Guid="{CFC18EC0-96B1-4EBA-961B-622CAEE05B0A}" />
+      <EventID>200</EventID>
+      <Version>1</Version>
+      <Level>3</Level>
+      <Task>4007</Task>
+      <Opcode>40</Opcode>
+      <Keywords>0x8000000000010000</Keywords>
+      <TimeCreated SystemTime="2010-07-29T20:41:34.312211000Z" />
+      <EventRecordID>34</EventRecordID>
+      <Correlation ActivityID="{00000100-0000-0000-26A8-E8265E2FCB01}" />
+      <Execution ProcessID="1192" ThreadID="1636" />
+      <Channel>Microsoft-Windows-Diagnostics-Performance/Operational</Channel>
+      <Computer>WIN-IBMCHNQPHVF</Computer>
+      <Security UserID="S-1-5-19" />
+    </System>
+    <EventData>
+      <Data Name="ShutdownTsVersion">1</Data>
+      <Data Name="ShutdownStartTime">2010-07-29T20:36:17.673923000Z</Data>
+      <Data Name="ShutdownEndTime">2010-07-29T20:36:25.044379200Z</Data>
+      <Data Name="ShutdownTime">7370</Data>
+      <Data Name="ShutdownUserSessionTime">3047</Data>
+      <Data Name="ShutdownUserPolicyTime">0</Data>
+      <Data Name="ShutdownUserProfilesTime">169</Data>
+      <Data Name="ShutdownSystemSessionsTime">1821</Data>
+      <Data Name="ShutdownPreShutdownNotificationsTime">105</Data>
+      <Data Name="ShutdownServicesTime">1285</Data>
+      <Data Name="ShutdownKernelTime">2501</Data>
+      <Data Name="ShutdownRootCauseStepImprovementBits">64</Data>
+      <Data Name="ShutdownRootCauseGradualImprovementBits">0</Data>
+      <Data Name="ShutdownRootCauseStepDegradationBits">0</Data>
+      <Data Name="ShutdownRootCauseGradualDegradationBits">0</Data>
+      <Data Name="ShutdownIsDegradation">false</Data>
+      <Data Name="ShutdownTimeChange">0</Data>
+    </EventData>
+  </Event>
+  <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+    <System>
+      <Provider Name="Microsoft-Windows-Diagnostics-Performance" Guid="{CFC18EC0-96B1-4EBA-961B-622CAEE05B0A}" />
+      <EventID>200</EventID>
+      <Version>1</Version>
+      <Level>3</Level>
+      <Task>4007</Task>
+      <Opcode>40</Opcode>
+      <Keywords>0x8000000000010000</Keywords>
+      <TimeCreated SystemTime="2010-07-29T20:36:10.845015400Z" />
+      <EventRecordID>31</EventRecordID>
+      <Correlation ActivityID="{00000100-0000-0002-4425-A0645D2FCB01}" />
+      <Execution ProcessID="1216" ThreadID="1248" />
+      <Channel>Microsoft-Windows-Diagnostics-Performance/Operational</Channel>
+      <Computer>WIN-IBMCHNQPHVF</Computer>
+      <Security UserID="S-1-5-19" />
+    </System>
+    <EventData>
+      <Data Name="ShutdownTsVersion">1</Data>
+      <Data Name="ShutdownStartTime">2010-07-29T20:33:47.101096900Z</Data>
+      <Data Name="ShutdownEndTime">2010-07-29T20:33:53.878101700Z</Data>
+      <Data Name="ShutdownTime">6777</Data>
+      <Data Name="ShutdownUserSessionTime">3281</Data>
+      <Data Name="ShutdownUserPolicyTime">0</Data>
+      <Data Name="ShutdownUserProfilesTime">123</Data>
+      <Data Name="ShutdownSystemSessionsTime">2270</Data>
+      <Data Name="ShutdownPreShutdownNotificationsTime">100</Data>
+      <Data Name="ShutdownServicesTime">1512</Data>
+      <Data Name="ShutdownKernelTime">1224</Data>
+      <Data Name="ShutdownRootCauseStepImprovementBits">256</Data>
+      <Data Name="ShutdownRootCauseGradualImprovementBits">0</Data>
+      <Data Name="ShutdownRootCauseStepDegradationBits">0</Data>
+      <Data Name="ShutdownRootCauseGradualDegradationBits">0</Data>
+      <Data Name="ShutdownIsDegradation">false</Data>
+      <Data Name="ShutdownTimeChange">0</Data>
+    </EventData>
+  </Event>
+  <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+    <System>
+      <Provider Name="Microsoft-Windows-Diagnostics-Performance" Guid="{CFC18EC0-96B1-4EBA-961B-622CAEE05B0A}" />
+      <EventID>200</EventID>
+      <Version>1</Version>
+      <Level>3</Level>
+      <Task>4007</Task>
+      <Opcode>40</Opcode>
+      <Keywords>0x8000000000010000</Keywords>
+      <TimeCreated SystemTime="2010-07-29T20:33:24.556606100Z" />
+      <EventRecordID>28</EventRecordID>
+      <Correlation ActivityID="{00000100-0000-0002-A45A-A2045D2FCB01}" />
+      <Execution ProcessID="1240" ThreadID="1644" />
+      <Channel>Microsoft-Windows-Diagnostics-Performance/Operational</Channel>
+      <Computer>WIN-IBMCHNQPHVF</Computer>
+      <Security UserID="S-1-5-19" />
+    </System>
+    <EventData>
+      <Data Name="ShutdownTsVersion">1</Data>
+      <Data Name="ShutdownStartTime">2010-07-29T20:26:29.823100700Z</Data>
+      <Data Name="ShutdownEndTime">2010-07-29T20:26:36.231093000Z</Data>
+      <Data Name="ShutdownTime">6407</Data>
+      <Data Name="ShutdownUserSessionTime">2738</Data>
+      <Data Name="ShutdownUserPolicyTime">0</Data>
+      <Data Name="ShutdownUserProfilesTime">184</Data>
+      <Data Name="ShutdownSystemSessionsTime">1727</Data>
+      <Data Name="ShutdownPreShutdownNotificationsTime">98</Data>
+      <Data Name="ShutdownServicesTime">1257</Data>
+      <Data Name="ShutdownKernelTime">1941</Data>
+      <Data Name="ShutdownRootCauseStepImprovementBits">0</Data>
+      <Data Name="ShutdownRootCauseGradualImprovementBits">0</Data>
+      <Data Name="ShutdownRootCauseStepDegradationBits">0</Data>
+      <Data Name="ShutdownRootCauseGradualDegradationBits">0</Data>
+      <Data Name="ShutdownIsDegradation">false</Data>
+      <Data Name="ShutdownTimeChange">0</Data>
+    </EventData>
+  </Event>
+  <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+    <System>
+      <Provider Name="Microsoft-Windows-Diagnostics-Performance" Guid="{CFC18EC0-96B1-4EBA-961B-622CAEE05B0A}" />
+      <EventID>200</EventID>
+      <Version>1</Version>
+      <Level>3</Level>
+      <Task>4007</Task>
+      <Opcode>40</Opcode>
+      <Keywords>0x8000000000010000</Keywords>
+      <TimeCreated SystemTime="2010-07-29T20:26:28.037815700Z" />
+      <EventRecordID>27</EventRecordID>
+      <Correlation ActivityID="{00000100-0000-0006-05B0-2F095C2FCB01}" />
+      <Execution ProcessID="1280" ThreadID="1796" />
+      <Channel>Microsoft-Windows-Diagnostics-Performance/Operational</Channel>
+      <Computer>WIN-IBMCHNQPHVF</Computer>
+      <Security UserID="S-1-5-19" />
+    </System>
+    <EventData>
+      <Data Name="ShutdownTsVersion">1</Data>
+      <Data Name="ShutdownStartTime">2010-07-29T20:24:05.022384300Z</Data>
+      <Data Name="ShutdownEndTime">2010-07-29T20:24:11.249232900Z</Data>
+      <Data Name="ShutdownTime">6226</Data>
+      <Data Name="ShutdownUserSessionTime">2816</Data>
+      <Data Name="ShutdownUserPolicyTime">0</Data>
+      <Data Name="ShutdownUserProfilesTime">129</Data>
+      <Data Name="ShutdownSystemSessionsTime">1692</Data>
+      <Data Name="ShutdownPreShutdownNotificationsTime">106</Data>
+      <Data Name="ShutdownServicesTime">1255</Data>
+      <Data Name="ShutdownKernelTime">1718</Data>
+      <Data Name="ShutdownRootCauseStepImprovementBits">128</Data>
+      <Data Name="ShutdownRootCauseGradualImprovementBits">0</Data>
+      <Data Name="ShutdownRootCauseStepDegradationBits">0</Data>
+      <Data Name="ShutdownRootCauseGradualDegradationBits">0</Data>
+      <Data Name="ShutdownIsDegradation">false</Data>
+      <Data Name="ShutdownTimeChange">0</Data>
+    </EventData>
+  </Event>
+  <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+    <System>
+      <Provider Name="Microsoft-Windows-Diagnostics-Performance" Guid="{CFC18EC0-96B1-4EBA-961B-622CAEE05B0A}" />
+      <EventID>200</EventID>
+      <Version>1</Version>
+      <Level>3</Level>
+      <Task>4007</Task>
+      <Opcode>40</Opcode>
+      <Keywords>0x8000000000010000</Keywords>
+      <TimeCreated SystemTime="2010-07-29T20:16:14.026625000Z" />
+      <EventRecordID>21</EventRecordID>
+      <Correlation ActivityID="{00000100-0000-0002-67A4-34985A2FCB01}" />
+      <Execution ProcessID="1272" ThreadID="1344" />
+      <Channel>Microsoft-Windows-Diagnostics-Performance/Operational</Channel>
+      <Computer>WIN-IBMCHNQPHVF</Computer>
+      <Security UserID="S-1-5-19" />
+    </System>
+    <EventData>
+      <Data Name="ShutdownTsVersion">1</Data>
+      <Data Name="ShutdownStartTime">2010-07-29T20:13:44.994310400Z</Data>
+      <Data Name="ShutdownEndTime">2010-07-29T20:13:51.682662600Z</Data>
+      <Data Name="ShutdownTime">6688</Data>
+      <Data Name="ShutdownUserSessionTime">2699</Data>
+      <Data Name="ShutdownUserPolicyTime">0</Data>
+      <Data Name="ShutdownUserProfilesTime">111</Data>
+      <Data Name="ShutdownSystemSessionsTime">2040</Data>
+      <Data Name="ShutdownPreShutdownNotificationsTime">103</Data>
+      <Data Name="ShutdownServicesTime">1464</Data>
+      <Data Name="ShutdownKernelTime">1948</Data>
+      <Data Name="ShutdownRootCauseStepImprovementBits">0</Data>
+      <Data Name="ShutdownRootCauseGradualImprovementBits">0</Data>
+      <Data Name="ShutdownRootCauseStepDegradationBits">0</Data>
+      <Data Name="ShutdownRootCauseGradualDegradationBits">0</Data>
+      <Data Name="ShutdownIsDegradation">false</Data>
+      <Data Name="ShutdownTimeChange">0</Data>
+    </EventData>
+  </Event>
+  <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+    <System>
+      <Provider Name="Microsoft-Windows-Diagnostics-Performance" Guid="{CFC18EC0-96B1-4EBA-961B-622CAEE05B0A}" />
+      <EventID>200</EventID>
+      <Version>1</Version>
+      <Level>3</Level>
+      <Task>4007</Task>
+      <Opcode>40</Opcode>
+      <Keywords>0x8000000000010000</Keywords>
+      <TimeCreated SystemTime="2010-07-29T20:13:15.463005900Z" />
+      <EventRecordID>17</EventRecordID>
+      <Correlation ActivityID="{00000100-0000-0000-057F-0F345A2FCB01}" />
+      <Execution ProcessID="1376" ThreadID="1828" />
+      <Channel>Microsoft-Windows-Diagnostics-Performance/Operational</Channel>
+      <Computer>WIN-IBMCHNQPHVF</Computer>
+      <Security UserID="S-1-5-19" />
+    </System>
+    <EventData>
+      <Data Name="ShutdownTsVersion">1</Data>
+      <Data Name="ShutdownStartTime">2010-07-29T18:09:54.688798700Z</Data>
+      <Data Name="ShutdownEndTime">2010-07-29T18:10:00.903162800Z</Data>
+      <Data Name="ShutdownTime">6214</Data>
+      <Data Name="ShutdownUserSessionTime">2578</Data>
+      <Data Name="ShutdownUserPolicyTime">0</Data>
+      <Data Name="ShutdownUserProfilesTime">38</Data>
+      <Data Name="ShutdownSystemSessionsTime">2475</Data>
+      <Data Name="ShutdownPreShutdownNotificationsTime">327</Data>
+      <Data Name="ShutdownServicesTime">1844</Data>
+      <Data Name="ShutdownKernelTime">1161</Data>
+      <Data Name="ShutdownRootCauseStepImprovementBits">0</Data>
+      <Data Name="ShutdownRootCauseGradualImprovementBits">0</Data>
+      <Data Name="ShutdownRootCauseStepDegradationBits">0</Data>
+      <Data Name="ShutdownRootCauseGradualDegradationBits">0</Data>
+      <Data Name="ShutdownIsDegradation">false</Data>
+      <Data Name="ShutdownTimeChange">0</Data>
+    </EventData>
+  </Event>
+  <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+    <System>
+      <Provider Name="Microsoft-Windows-Diagnostics-Performance" Guid="{CFC18EC0-96B1-4EBA-961B-622CAEE05B0A}" />
+      <EventID>200</EventID>
+      <Version>1</Version>
+      <Level>3</Level>
+      <Task>4007</Task>
+      <Opcode>40</Opcode>
+      <Keywords>0x8000000000010000</Keywords>
+      <TimeCreated SystemTime="2010-07-29T18:07:31.364214500Z" />
+      <EventRecordID>14</EventRecordID>
+      <Correlation ActivityID="{00000100-0000-0002-433A-73A0482FCB01}" />
+      <Execution ProcessID="1220" ThreadID="1236" />
+      <Channel>Microsoft-Windows-Diagnostics-Performance/Operational</Channel>
+      <Computer>WIN-IBMCHNQPHVF</Computer>
+      <Security UserID="S-1-5-19" />
+    </System>
+    <EventData>
+      <Data Name="ShutdownTsVersion">1</Data>
+      <Data Name="ShutdownStartTime">2010-07-29T18:05:07.225416100Z</Data>
+      <Data Name="ShutdownEndTime">2010-07-29T18:05:13.571085700Z</Data>
+      <Data Name="ShutdownTime">6345</Data>
+      <Data Name="ShutdownUserSessionTime">2259</Data>
+      <Data Name="ShutdownUserPolicyTime">0</Data>
+      <Data Name="ShutdownUserProfilesTime">27</Data>
+      <Data Name="ShutdownSystemSessionsTime">2104</Data>
+      <Data Name="ShutdownPreShutdownNotificationsTime">115</Data>
+      <Data Name="ShutdownServicesTime">1740</Data>
+      <Data Name="ShutdownKernelTime">1981</Data>
+      <Data Name="ShutdownRootCauseStepImprovementBits">0</Data>
+      <Data Name="ShutdownRootCauseGradualImprovementBits">0</Data>
+      <Data Name="ShutdownRootCauseStepDegradationBits">0</Data>
+      <Data Name="ShutdownRootCauseGradualDegradationBits">0</Data>
+      <Data Name="ShutdownIsDegradation">false</Data>
+      <Data Name="ShutdownTimeChange">0</Data>
+    </EventData>
+  </Event>
+  <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+    <System>
+      <Provider Name="Microsoft-Windows-Diagnostics-Performance" Guid="{CFC18EC0-96B1-4EBA-961B-622CAEE05B0A}" />
+      <EventID>200</EventID>
+      <Version>1</Version>
+      <Level>3</Level>
+      <Task>4007</Task>
+      <Opcode>40</Opcode>
+      <Keywords>0x8000000000010000</Keywords>
+      <TimeCreated SystemTime="2010-07-29T18:00:48.149822700Z" />
+      <EventRecordID>12</EventRecordID>
+      <Correlation ActivityID="{00000100-0000-0000-0521-48AD472FCB01}" />
+      <Execution ProcessID="928" ThreadID="1488" />
+      <Channel>Microsoft-Windows-Diagnostics-Performance/Operational</Channel>
+      <Computer>WIN-IBMCHNQPHVF</Computer>
+      <Security UserID="S-1-5-19" />
+    </System>
+    <EventData>
+      <Data Name="ShutdownTsVersion">1</Data>
+      <Data Name="ShutdownStartTime">2010-07-29T17:58:19.013566200Z</Data>
+      <Data Name="ShutdownEndTime">2010-07-29T17:58:27.632174700Z</Data>
+      <Data Name="ShutdownTime">8618</Data>
+      <Data Name="ShutdownUserSessionTime">2490</Data>
+      <Data Name="ShutdownUserPolicyTime">0</Data>
+      <Data Name="ShutdownUserProfilesTime">295</Data>
+      <Data Name="ShutdownSystemSessionsTime">2097</Data>
+      <Data Name="ShutdownPreShutdownNotificationsTime">319</Data>
+      <Data Name="ShutdownServicesTime">1212</Data>
+      <Data Name="ShutdownKernelTime">4030</Data>
+      <Data Name="ShutdownRootCauseStepImprovementBits">0</Data>
+      <Data Name="ShutdownRootCauseGradualImprovementBits">0</Data>
+      <Data Name="ShutdownRootCauseStepDegradationBits">384</Data>
+      <Data Name="ShutdownRootCauseGradualDegradationBits">0</Data>
+      <Data Name="ShutdownIsDegradation">true</Data>
+      <Data Name="ShutdownTimeChange">0</Data>
+    </EventData>
+  </Event>
+  <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+    <System>
+      <Provider Name="Microsoft-Windows-Diagnostics-Performance" Guid="{CFC18EC0-96B1-4EBA-961B-622CAEE05B0A}" />
+      <EventID>200</EventID>
+      <Version>1</Version>
+      <Level>3</Level>
+      <Task>4007</Task>
+      <Opcode>40</Opcode>
+      <Keywords>0x8000000000010000</Keywords>
+      <TimeCreated SystemTime="2010-07-29T17:57:17.035452600Z" />
+      <EventRecordID>7</EventRecordID>
+      <Correlation ActivityID="{00000100-0000-0000-0417-6225472FCB01}" />
+      <Execution ProcessID="1016" ThreadID="1492" />
+      <Channel>Microsoft-Windows-Diagnostics-Performance/Operational</Channel>
+      <Computer>WIN-IBMCHNQPHVF</Computer>
+      <Security UserID="S-1-5-19" />
+    </System>
+    <EventData>
+      <Data Name="ShutdownTsVersion">1</Data>
+      <Data Name="ShutdownStartTime">2010-07-29T17:54:18.922830300Z</Data>
+      <Data Name="ShutdownEndTime">2010-07-29T17:54:39.607038000Z</Data>
+      <Data Name="ShutdownTime">20684</Data>
+      <Data Name="ShutdownUserSessionTime">2263</Data>
+      <Data Name="ShutdownUserPolicyTime">0</Data>
+      <Data Name="ShutdownUserProfilesTime">356</Data>
+      <Data Name="ShutdownSystemSessionsTime">14879</Data>
+      <Data Name="ShutdownPreShutdownNotificationsTime">12887</Data>
+      <Data Name="ShutdownServicesTime">1769</Data>
+      <Data Name="ShutdownKernelTime">3541</Data>
+      <Data Name="ShutdownRootCauseStepImprovementBits">0</Data>
+      <Data Name="ShutdownRootCauseGradualImprovementBits">0</Data>
+      <Data Name="ShutdownRootCauseStepDegradationBits">273</Data>
+      <Data Name="ShutdownRootCauseGradualDegradationBits">273</Data>
+      <Data Name="ShutdownIsDegradation">true</Data>
+      <Data Name="ShutdownTimeChange">4934</Data>
+    </EventData>
+  </Event>
+  <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+    <System>
+      <Provider Name="Microsoft-Windows-Diagnostics-Performance" Guid="{CFC18EC0-96B1-4EBA-961B-622CAEE05B0A}" />
+      <EventID>200</EventID>
+      <Version>1</Version>
+      <Level>3</Level>
+      <Task>4007</Task>
+      <Opcode>40</Opcode>
+      <Keywords>0x8000000000010000</Keywords>
+      <TimeCreated SystemTime="2010-07-29T17:48:34.135011300Z" />
+      <EventRecordID>4</EventRecordID>
+      <Correlation ActivityID="{00000100-0000-0001-6397-EDFB452FCB01}" />
+      <Execution ProcessID="772" ThreadID="1036" />
+      <Channel>Microsoft-Windows-Diagnostics-Performance/Operational</Channel>
+      <Computer>WIN-IBMCHNQPHVF</Computer>
+      <Security UserID="S-1-5-19" />
+    </System>
+    <EventData>
+      <Data Name="ShutdownTsVersion">1</Data>
+      <Data Name="ShutdownStartTime">2010-07-29T17:46:13.717870000Z</Data>
+      <Data Name="ShutdownEndTime">2010-07-29T17:46:21.960793400Z</Data>
+      <Data Name="ShutdownTime">8242</Data>
+      <Data Name="ShutdownUserSessionTime">2479</Data>
+      <Data Name="ShutdownUserPolicyTime">0</Data>
+      <Data Name="ShutdownUserProfilesTime">455</Data>
+      <Data Name="ShutdownSystemSessionsTime">2152</Data>
+      <Data Name="ShutdownPreShutdownNotificationsTime">115</Data>
+      <Data Name="ShutdownServicesTime">1809</Data>
+      <Data Name="ShutdownKernelTime">3610</Data>
+      <Data Name="ShutdownRootCauseStepImprovementBits">0</Data>
+      <Data Name="ShutdownRootCauseGradualImprovementBits">0</Data>
+      <Data Name="ShutdownRootCauseStepDegradationBits">0</Data>
+      <Data Name="ShutdownRootCauseGradualDegradationBits">0</Data>
+      <Data Name="ShutdownIsDegradation">false</Data>
+      <Data Name="ShutdownTimeChange">0</Data>
+    </EventData>
+  </Event>
+  <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+    <System>
+      <Provider Name="Microsoft-Windows-Diagnostics-Performance" Guid="{CFC18EC0-96B1-4EBA-961B-622CAEE05B0A}" />
+      <EventID>200</EventID>
+      <Version>1</Version>
+      <Level>3</Level>
+      <Task>4007</Task>
+      <Opcode>40</Opcode>
+      <Keywords>0x8000000000010000</Keywords>
+      <TimeCreated SystemTime="2010-07-29T17:46:08.395814900Z" />
+      <EventRecordID>1</EventRecordID>
+      <Correlation ActivityID="{00000100-0000-0002-C3F6-B8A3452FCB01}" />
+      <Execution ProcessID="840" ThreadID="1404" />
+      <Channel>Microsoft-Windows-Diagnostics-Performance/Operational</Channel>
+      <Computer>WIN-IBMCHNQPHVF</Computer>
+      <Security UserID="S-1-5-19" />
+    </System>
+    <EventData>
+      <Data Name="ShutdownTsVersion">1</Data>
+      <Data Name="ShutdownStartTime">2010-07-29T17:43:45.785921400Z</Data>
+      <Data Name="ShutdownEndTime">2010-07-29T17:43:52.947720500Z</Data>
+      <Data Name="ShutdownTime">7161</Data>
+      <Data Name="ShutdownUserSessionTime">2269</Data>
+      <Data Name="ShutdownUserPolicyTime">0</Data>
+      <Data Name="ShutdownUserProfilesTime">252</Data>
+      <Data Name="ShutdownSystemSessionsTime">1701</Data>
+      <Data Name="ShutdownPreShutdownNotificationsTime">111</Data>
+      <Data Name="ShutdownServicesTime">1336</Data>
+      <Data Name="ShutdownKernelTime">3190</Data>
+      <Data Name="ShutdownRootCauseStepImprovementBits">0</Data>
+      <Data Name="ShutdownRootCauseGradualImprovementBits">0</Data>
+      <Data Name="ShutdownRootCauseStepDegradationBits">0</Data>
+      <Data Name="ShutdownRootCauseGradualDegradationBits">0</Data>
+      <Data Name="ShutdownIsDegradation">false</Data>
+      <Data Name="ShutdownTimeChange">0</Data>
+    </EventData>
+  </Event>
+</rootNode>
